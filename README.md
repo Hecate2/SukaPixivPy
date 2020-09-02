@@ -1,0 +1,1 @@
+Change keywords in `api.py` to get all the images tagged by the keyword from Pixiv. No concurrency, no retrying and no extra facilitating functions for now.
